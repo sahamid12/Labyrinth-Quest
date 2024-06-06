@@ -44,4 +44,3 @@ const render = Render.create({
         height: window.innerHeight - 3.5
     }
 });
-]);
